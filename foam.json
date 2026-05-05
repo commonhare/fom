@@ -2,5 +2,6 @@
   "$schema": "https://foambubble.github.io/schema.json",
   "navigation": {
     "roots": ["."]
-  }
+  },
+  "newNotePath": "wiki"
 }
